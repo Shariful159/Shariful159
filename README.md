@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Shariful
-![](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/236664190_517577195988486_7647573026520320333_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFz0u86I8a66f1jv1F0dYFb_Nzks3twQa783OSze3BBrsue_KJLxMkm_Znm0BKk325arWvCSg18wV6_loyEHYay&_nc_ohc=FfCU0YEnsMgAX9iMKOy&_nc_ht=scontent.fdac13-1.fna&oh=00_AT_OOxqUnRsUCs84RiXHhssJD98h-J5WEnpxODkZMyGumA&oe=6218EE54)
+![](https://pbs.twimg.com/profile_banners/1494586089788502020/1645173181/1080x360)
 
 I am studying Computer Science and Engineering at the University of Barisal.
 
