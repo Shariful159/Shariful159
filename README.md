@@ -4,10 +4,10 @@
 I am studying Computer Science and Engineering at the University of Barisal.
 
 
-Skills: c,c++
+Skills: c,c++,java,html,sql
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shariful159)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shariful Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shariful Islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shariful Islam)  
