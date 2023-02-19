@@ -4,7 +4,7 @@
 I am studying Computer Science and Engineering at the University of Barisal.
 
 
-Skills: c,c++,java,html,sql
+Skills: c,c++,java,html,sql,css
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning 
